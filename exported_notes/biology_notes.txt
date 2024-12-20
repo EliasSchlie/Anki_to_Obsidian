@@ -1,5 +1,3 @@
-#separator:tab
-#html:false
 allele		the two alternative forms of a gene found at the same place on a chromosome.			
 amino-acid		a simple organic compound, building blocks of proteins			
 autosome		the 22 pairs of chromosomes apart from the sex chromosomes			
