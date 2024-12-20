@@ -1,0 +1,369 @@
+#separator:tab
+#html:false
+allele		the two alternative forms of a gene found at the same place on a chromosome.			
+amino-acid		a simple organic compound, building blocks of proteins			
+autosome		the 22 pairs of chromosomes apart from the sex chromosomes			
+candidate gene		any gene thought likely to cause a disease			
+chromosome		a DNA molecule with part of the genetic material (genome) of an organism			
+codon		a sequence of 3 nucleotides which form a unit of genetic code in a DNA/RNA molecule			
+crossing over		exchange of genes between homologous chromosomes			
+deletion		type of mutation involving genetic material			
+deoxyribonucleic acid (DNA)		A nucleic acid that encodes the genetic instructions used in the development and functioning of all known living organisms.			
+dizygotic twin		non identical twin			
+DNA replication		The biological process of producing two identic replicas of DNA from one original DNA molecule			
+DNA transcription		The process by which the information in a strand of DNA is copied into a new molecule of messenger RNA (mRNA)			
+DNA translation		process of protein synthesis, conversion of mRNA to protein			
+dominant trait		in genetics; a trait that will appear in offspring if only one of the parents contribute it			
+endophenotype		any hereditary characteristic that is normally associated with some condition but is not a direct symptom of that condition			
+epigenetics		Refers to functional modifications of the genome that do not involve a change in the DNA sequence itself.			
+evolution		The change in inherited characteristics over successive generations			
+fossil record		Total set of fossils (remains of a prehistoric plant/ animal embedded in rock) and the information derived from them.			
+gene		an instruction to make proteins			
+genome		an organism's complete set of DNA			
+genotype		the genetic constitution of an individual organism			
+heritability		the extent to which differences in a trait can be attributed to genetic material. The estimates range from 0 to 1.			
+insertion		the addition of genetic material resulting in a mutation			
+karyotype		the complete set of chromosomes in the cell nucleus			
+Mendelian inheritance		Inheritance pattern in which a genetic trait is passed from parent to offspring and is either dominant of receive			
+messenger RNA (mRNA)		a type of RNA that transports genetic material from DNA to the ribosome, where it specifies the sequence of amino acids to form a protein			
+mutation		a change within the DNA sequence, as a result of environmental factors and errors made within the copying process			
+natural selection		a Darwinian theory on origin of the species, as well as the process by which an individual producing more offspring will pass over his/her characteristics in the species			
+nucleotide		molecule building block of DNA/RNA, A; T(U); C and G			
+Out of Africa theory		a view that humans descended from ancestors originating in Africa and then ventured further in the search for resources			
+phenotype		the observable characteristics of an individual resulting from the interaction of its genotype with the environment			
+polygenic disorder		a disorder likely associated with the effects of multiple genes in combination with lifestyles and environmental factors, e.g. depression and coronary artery disease			
+protein synthesis		the creation of proteins derived from DNA sequences. The DNA unravels for transcription into mRNA. A ribosome reads the code and translates it into amino acids which are bound to tRNA.			
+qualitative trait		a trait that you either have or don't have (without a gene you will not have that trait) e.g. blood type, certain enzymes or defects			
+quantitative trait		rather than being present or absent, the traits are about how much it one has; e.g. intelligence			
+recessive trait		a trait that must be contributed by both parents in order to appear in the offspring			
+ribonucleic acid (RNA)		made of single helix, responsible for coding, recoding and regulation of genes. T nucleotide is replaced by U nucleotide			
+ribosome		molecule made of ribosomal RNA and protein, responsible for protein synthesis			
+sex chromosome		23rd pair of chromosomes determining sex of an organism, Y chromosome determines male sex			
+Single Nucleotide Polymorphism (SNP)		a variation in a single nucleotide that occurs at a specific position in the genome, where each variation is present to some degree within a population			
+structural similarity		refers to the same mechanism of building up structures			
+telomeres		region at the end of a chromosome, responsible for protecting it from damage, shortens with the organism getting older			
+transfer RNA (tRNA)		a type of RNA molecule that helps decode a mRNA sequence into a protein. Has an amino acids attached to it and a codon on the other side			
+translocation		a chromosone alteration in which a whole chromosome or segment of a chromosome becomes attached to or interchanged with another whole chromosome or segment			
+twin studies		a method used in behavioural genetics to determine the genetic basis of a trait/disorder using mono- and dizygotic pairs			
+absorptive phase		phase when nutrients are being absorped from the gastro-intestinal tract into the bloodstream			
+anabolic reaction		generating complex molecules from simple ones to store its energy			
+anorexia nervosa		an eating disorder characterized by low weight, fear of gaining weight, and a strong desire to be thin, resulting in food restriction.			
+anorexigenic		hunger suppressant			
+aphagia		the inability or refusal to swallow			
+bulimia		an eating disorder characterized by binge eating followed by purging			
+cachexia		loss of weight, muscle atrophy, fatigue, weakness, and significant loss of appetite in someone who is not actively trying to lose weight			
+carbohydrate		biomolecule of mono-, di- and polysaccharides which is the most important source of energy from food.			
+catabolic reactions		breakdown of complex molecules to release its energy			
+cellular respiration		metabolic process of converting biomolecules (glucose, α-ketoacids, ketones) into energy			
+digestion		the whole process of food intake and absorbing nutrients			
+disaccharide		a sugar formed when two monosaccharides (simple sugars) are joined			
+extracellular fluid		fluids in the body outside the cells			
+fasting phase /post-absorptive phase		begins after about four hours of fasting, stored nutrients are mobilized, maintaining a stable blood glucose supply			
+fatty acids		biomolecule of a long chain of carbon atoms, derived from triglycerides or phospholipids			
+glucagon		a pancreatic hormone which increases glucose and fat levels in the bloodstream			
+gluconeogenesis		new glucose made from amino-acids (α-ketoacids) and fatty acids (glycerol)			
+glycogen		storage form of carbohydrates in animals, only 1% of glucose is stored this way			
+glycogenesis		the new formation and production of glycogen			
+glycogenolysis		the process of releasing glucose from glycogen			
+high density lipoprotein (HDL)		a unit transporting fat in the blood. Aka 'the good' cholesterol because it can transport fat molecules out of artery walls			
+homeostasis		any self-regulating process by which biological systems tend to maintain stability while adjusting to conditions that are optimal for survival			
+hyperphagia		abnormally increased appetite			
+hypovolaemic thirst		thirst due to decrease of intravascular fluid			
+insulin		pancreas hormone which stimulates the uptake of glucose by cells, conversion of glucose to glycogen and fat, conversion of amino-acids to proteins, storage of glycogen, fat, and proteins			
+interstitial fluid		the fluid between cells			
+intracellular fluid		the fluid inside cells			
+intravascular fluid		the fluid in the bloodvessels			
+ketones		fuel source in the body when there is an insufficient amount of glucose			
+leptin		anorexigenic hormone derived from fat tissue, causing a reduction in feeding behaviour			
+lipids		a biomolecule of a fat-like substance that is water unsoluble. Involved in storing energy, signaling and acting as structural components of cell membranes.			
+lipogenesis		the process of creating fatty acids			
+lipolysis		the breakdown of lipids			
+lipoprotein		particles that transport cholesterol and triglycerides in the blood stream			
+low density lipoprotein (LDL)		a unit transporting fat in the blood. Aka 'the bad' cholesterol because it is involved in atherosclerosis			
+metabolism		the set of life-sustaining chemical transformations within the cells of organisms			
+monosaccharide		the simplest form of sugar comprising a single molecule			
+obesity		the state of being overweight, usually defined by a BMI over 30			
+orexigenic		a substance that increases appetite			
+osmolality		the concentration of particles dissolved in a fluid			
+osmotic thirst		thirst due to extracellular fluid becoming more 'salty'			
+pH		a numeric scale used to specify the acidity and basicity			
+polysaccharide		a carbohydrate whose molecules consist of more than two sugar molecules bonded together			
+post-absorptive phase		begins after about four hours of fasting. Stored nutrients are mobilized, maintaining a stable blood glucose supply			
+satiety		a state of being completely full			
+acrosome		Membrane of the tip of sperm cell. It contains enzymes that digest the outer surface of the egg cell, so it can inject its DNA			
+apoptosis		The progress of programmed cell death			
+arborization		the process where neurons form new dendritic branches to create new synapses			
+axon elaboration		the process of arborization and learning increases dendritic innervation			
+blastocyst		developmental phase app. 5 days after fertalization when a cluster of cells consisting of an inner cell mass, which forms the embryo.			
+blastomere		a type of cell produced by cell division of the zygote after fertilization and is an essential part of blastula formation			
+central canal		ependymal canal; the cerebrospinal fluid-filled space that runs longitudinally through the length of the entire spinal cord			
+critical periods		a maturational stage in the lifespan of an organism during which the nervous system is especially sensitive to certain environmental stimuli			
+Development Origins of Health & Disease or DOH(B)aD hypothesis		Barker Hypothesis; growth retardation, low birth weight, and premature birth have a causal relationship to the origins of hypertension, coronary heart disease, and non-insulin-dependent diabetes, in middle age			
+DNA-methylisation		DNA methylation is a process by which methyl groups are added to the DNA molecule. Methylation can change the activity of a DNA segment without changing the sequence			
+ectoderm		the outer layer of embryonic cells in the early embryo			
+endoderm		the inner layer of embryonic cells in the early embryo			
+foetal alcohol syndrome		a condition that can occur in a person whose mother drank alcohol during the pregnancy			
+folic acid		a vitamin that decreases the risk for a baby to have neural tube defect			
+gene silencing		Potentially heritable changes without genetic modifications in the DNA itself			
+gene-environment interaction		the response of different genotypes to environmental variation			
+glucocorticoids		group of steroid hormones (including cortisol) involved in maintaining blood glucose levels during stress. Has inhibitory effects on aspects of immune function			
+hypoxia		a condition in wich the body or a region of the body is deprived of adequate oxygen supply			
+mesoderm		the middle layer of the three primary germ layers in the early embryo			
+migration		stage of neural development in which cells of the brain arriving to their specific locations. They align themselves with the cells at their destination and form the structures of the brain.			
+myelination		the process of myelin wrapping around the axons to increase the speed of transmission between the neurons			
+nerve growth factor		proteins that are important for the growth, maintenance and survival of certain target neurons			
+neural crest		a group of ectodermal cells that develop into the spinal and autonomic ganglia and connective tissue around the CNS			
+neural plasticity		the ability of neurons to adapt and be molded			
+neural plate		part of the neural tube. During the development, it folds in on itself.			
+neural proliferation		phase in brain development in which new cells are generated			
+neural tube		tube formed from neural plate, will become the brain and spinal cord			
+neurulation		formation of the neural tube			
+ootid		Ovum containing the nuclei of female and male, haploid number of chromosomes			
+ovum		a mature female reproductive cell			
+pre-eclampsia		a pregnancy complication characterized by high blood pressure and signs of damage to another organ system, most often the liver and kidneys.			
+primitive streak		structure that forms in the blastula during the early stages of mammalian embryonic development			
+progenitor cell		cell, more specific than a stem cell, that differentiates into it's target-cell			
+radial glial cells		nerve cell cluster; provide a network of guidewires and support structures that the migrating neuron wraps around and follows to its destination			
+reprogramming		erasure and remodelling of epigenetic markers during mammalian development or in cell structure			
+resilience		the capacity to return to a previous state of wellbeing			
+somites		a division of the body in an animal or embryo			
+spina bifida		a birth defect where there is incomplete closing of the backbone and membranes around the spinal cord			
+stem cells		an undifferentiated cell of a multicellular organism which is capable of giving rise to indefinitely more cells of the same type			
+synaptic consolidation		late-phase long-term potentiation; a process within the first few hours after learning enabling synapses to retain their strength for a much longer time (days to years)			
+synaptic elimination		pruning; use it or lose it; termination of cells that won't be used so much			
+synaptogenesis		to create new synapses			
+teratogens		any agent that can disturb the development of an embryo or fetus.			
+thaliomide		a drug formerly used as a sedative, causes congenital malformation or absence of limbs in children whose mothers took the drug during early pregnancy			
+uterus		womb; a hollow muscular organ of the female reproductive system that is responsible for the development of the embryo and fetus			
+action potential		the depolarization of the membrane potential that sends a signal down the action of a neuron			
+adenosine diphosphate (ADP)		a component of ATP, with one less phosphate, it can be converted again into ATP			
+adenosine triphosphate (ATP)		a nucleotide compound that provides storage of energy within cells			
+adrenal gland		small gland located on top of the kidney, releases cortisol (from cortex) and adrenalin (from medulla)			
+adrenocorticotrophic hormone (ACTH)		a hormone of the anterior pituitary that stimulates the production of steroids in the adrenal cortex			
+autoreceptor		a presynaptic type of receptor involved in a negative feedback loop in signal transduction. It is only sensitive to the neurotransmitters or hormones released by the neuron on which it is located			
+catecholamines		a monoamine family of neurotransmitters: dopamine, noradrenaline and adrenaline, created from the amino-acid tyrosine			
+concentration gradient		particles move from an area of high concentration to an area of low concentration			
+cortisol		stress hormone released by adrenal cortex upon activation by ACTH			
+cytoskeleton		part of the cell made up of microtubules, actin filaments, and intermediate filaments. These structures give the cell its shape, help organise the cells parts and provide a basis for movement and cell division.			
+endocytosis		form of active transport in which a cell transports molecules into the cell			
+endoplasmic reticulum		a type of cell organelle forming an interconnected network of flattened, membrane-enclosed sacs. Rough: Contains ribosomes which assemble proteins. Smooth: Production and metabolism of fats and steroid hormones.			
+enzyme		protein that speeds up the rate of a chemical reaction in living organisms. E.g. can 'cut' or 'paste' (parts of) other molecules.			
+exocytosis		export of materials out of a cell via secretory vesicles. The vesicles fuse with the plasma membrane			
+extracellular		the outside of a cell			
+golgi-apparatus		a cell organelle that helps process and package proteins and lipid molecules. It's the final step of adapting proteins for use.			
+G-protein coupled receptor		largest and most diverse type of receptor. These cells surface receptors act like an inbox for messages in the form of light energy, peptides, lipids, sugars and proteins			
+hormone		chemical substane formed in specialized glands or cells that affect targets often some distance away			
+hydrophobic		hates water and loves oil			
+hyper-(thyroidism)		overactive (thyroid) gland, producing an excessive amount of (thyroid) hormones			
+hypo-(thyroidism)		under-active (thyroid) gland, producing a smaller amount of (thyroid) hormones			
+intracellular receptor		a receptor inside the cell, thus not located in the cell membrane			
+ionotropic receptor		a receptor which forms an ion channel pore			
+ligand		a chemical/drug/neurotransmitter that can bind to a receptor			
+ligand-gated ion channel		a group of transmembrane receptors upon activation by a ligand opens an ion channel			
+lipophilic		loves oil, hates water			
+lysosome		vesicles in the cytoplasm that contain breakdown enzymes, involved in recycling			
+metabotropic receptor		a receptor that acts through the release of a second messenger			
+mitochondrium		a structure in cells which provides respiration and energy production, which is ATP. Only structure in the body that has own DNA which is inherited from the mother.			
+monoamine hormone		hormone derived from a single amino acid by the use of enzymes. It's one of the three classes of hormones.			
+negative feedback loop		a reaction that causes a decrease in function. Often it causes the output of a system, e.g. hormone release, to be lessened			
+neurotransmitter		chemicals which send out signals across a synapse from one neuron to another			
+nucleus		the DNA-containing unit of a cell			
+oxytocin		a peptide hormone produced by the hypothalamus and stored and secreted by the posterior pituitary gland			
+paracrine signalling		a form of cell-to-cell communication in which a cell produces a signal to induce changes in nearby cells, altering the behavior of those cells			
+peptide hormone		hormone that consist of peptides and have an effect on the endocrine system of animals			
+phospholipid bilayer		A two-layered arrangement of phosphate and lipid molecules that form a cell membrane, the hydrophobic lipid ends facing inward and the hydrophilic phosphate ends facing outward.			
+pituitary gland		the major endocrine gland. The master gland. Divided into anterior and posterior reigions. Secretes hormones.			
+receptor		proteins which are configured to receive a particular endogenous chemical			
+retrograde signaling		a process in which the postsynaptic neuron communicates with the presynaptic neuron which may inhibit further release			
+steroid hormone		a hormone class synthesized from cholesterol in the gonads and adrenal glands			
+thyroid hormone		hormone produced by the thyroid gland primarily responsible for regulation of metabolism. Enhances the effect of adrenaline			
+transmembrane receptor		receptor embedded in the cell membrane			
+transporter protein		proteins spanning the cell membrane that promote the reabsorption of the released neurotransmitter into the presynaptic cytoplasm. E.g. SERT, NET, DAT			
+vesicles		a small spherical cellular container for transport and storage, e.g. of neurotransmitters			
+social hierarchy		"an arrangement of a group in which the members are represented as being ""above"", ""below"" or ""at the same level"" as one another"			
+social status		the position or rank of a person or group within the society			
+HPA-axis		a complex set of direct influences and feedback interactions among three endocrine glands; - hypothalamus, - pituitary gland, - adrenal gland. It controls reactions to stress and regulates many body processes			
+acute coronary syndrome		any group of clinical symptoms compatible with acute myocardial ischemia. Comprises myocardial infarction and unstable angina			
+acute psychological risk factor		Outbursts of anger, mental activity, acute distress that may act as triggers of cardiac events within one hour.			
+angina pectoris		chest pain due to an inadequate supply of oxygen to the heart muscle			
+atherosclerosis		a disease of the arteries characterized by the deposition of fatty material on their inner walls			
+cardiac arrythmia		an irregular heartbeat, too fast or too low			
+cardiovascular disease		conditions that involve narrowed or blocked blood vessels (not just in the heart) that can lead to a heart attack, chest pain (angina) or stroke			
+cardiovascular disease markers		factors predicting coronary heart diseases, including cholesterol, hypertension, diabetes, smoking, and family history			
+cardiovascular system		an organ system that permits blood to circulate and transport nutrients, oxygen, carbodioxide, hormones and blood cells to and from the cells in the body to provide nourishment			
+chronic psychological risk factor		psychological risk factors that promote gradual progression of coronary artery disease e.g. personality traits and adverse socioenvironmental circumstances			
+coronary artery		the arteries that lie on top of the heart muscle and supply it with blood for it to function (contract) properly			
+coronary artery disease		heart disease; condition as a result of plaque buildup in the arteries of the heart			
+distress		stress evoked by negative emotion or events			
+(electrocardiogram) ECG		the process of recording the electrical activity of the heart over a period of time using electrodes placed on the skin			
+episodic psychological risk factor		psychologic risk factors that last from several weeks to twoyears .e.g. depression, exhaustion, episodes of distress related to job loss, divorce and exposure to extreme physical and mental adversity			
+heart failure		a condition in which the heart can't pump enough blood to meet the body's needs. Either the heart muscle has becomed dilated, or more stiffened			
+(Left ventricular ejection fraction) LVEF		percentage of blood ejected from the left ventrical of the heart with every heartbeat. An LVEF of 55% or higher is considered normal			
+mental stress-induced ischaemia		myocardial ischemia (insufficient oxygen to the heart) caused by mental or emotional stress			
+myocardial infarction (MI)		heart attack; sudden blockage of the flow of oxygen-rich blood to a section of heart muscle			
+myocardial ischaemia		occurs when blood flow to your heart is reduced, preventing it from receiving enough oxygen. Can be the result of a partial or complete blockage of your heart's arteries			
+prevalence		the proportion of disease found to have been affecting a particular population			
+psychological distress		unpleasant feelings or emotions that impact your level of functioning			
+stressor		a chemical or biological agent, environmental condition, external stimulus or an event that causes stress to an organism			
+tachycardia		tachyarrhythmia; a heart rate that exceeds the normal resting rate, exceeding 100 bpm in adults			
+Takotsubo-syndrome		octopus-pot'; stress cardiomyopathy; a temporary syndrome which causes disfunction in heart contractions due to extreme mental stress			
+trigger		an event that is the cause of a particular action, process or situation.			
+Type A behaviour pattern		outgoing, ambitious, rigidly organized, highly status-conscious, sensitive, impatient, anxious, proactive, and concerned with time management			
+vasodilation		the widening of blood vessels			
+Aorta		The large arterial trunk that carries blood from the heart to be distributed by branch arteries through the body.			
+coronary arteries and veins		These are the vessels located on and in the actual myocardium or heart muscle. They supply and drain the myocardium of blood, respectively.			
+heart from the inside					
+heart from the outside					
+Main types of cardiovascular diseases		1. Coronary heart disease 2. Heart failure 3. Valve disease 4. Arrhythmia / sudden cardiac death 5. Stroke/CVA/TIA 6. others like endocarditis			
+Iceberg Phenomenon		for any given disesase, there is a much larger problem with carriers and asymptomatic individuals than we realize  => only when you’re over a certain threshold you will get cardiac events.			
+mental stress ischemia		Decreased cardiac supply - (narrowing coronary arteries) – heart doesn’t get sufficient blood supply which can lead to MI Increased cardiac demand (hemodymanic reactivity) - (blood pressure, heart rate, contractility)			
+Bradycardia		slow heart rate (less than 60 bpm)			
+emotional state and risk of ischemia		Ischemia during daily life is often silent and without symptoms in 80 to 90 % of patients. • There’s a link between emotional states and myocardial ischemia in daily life which is not explained by symptoms.			
+daily life activities triggering heart attack/myocardial infarction		more common in males mostly age > 62 current smoker family history of CVD high emotional and physical stress			
+what happens to the heart rate (usually) before a heart attack		Drop in heart rate variability in the 10 minutes prior to ischemia and a further steep drop in the few minutes prior to ischemia.  Shows a drop prior to myocardial ischemia - reduction of your relaxation parasympathetic nervous system ➔ More announced in people who are mentally active/stressed => High levels of mental arousal and low levels of parasympathetic activity.			
+Effects of mental stress on coronary vasodiameter (diameter of arteries)		Mental stress also results in an extra narrowing of the coronary arteries. If an artery is narrowed/stenoses you see a higher load with mental stress.  If the mental stress isn't as high, you see that the arteries don’t change much. ➔ The more diseased arteries, the more they narrow →heart has to work harder with stress and the diseased parts of the coronary arteries constrict, both contributing to the likelihood of myocardial ischemia			
+Apical ballooning syndrome (ABS)		- Transient left ventricular apical ballooning - Broken heart syndrome - Stress cardiomyopathy - Ampulla cardiomyopathy - Neurogenic stunning  With the broken heart syndrome the base of the heart does not contract at all during systole. Normally you only see this with severe myocardial infarction.			
+Characteristics of Tako-Tsubo cardiomyopathy		- ECG suggesting acute myocardial infarction (symptoms are like myocardial infarction) - Apical ballooning or other major ventricular dysfunction - Chest pain/dyspnea, pulmonary edema, cardiogenic shock  But: - When doing in angiogram: the coronary vessels seem to be normal  - Minimal coronary artery disease (highly unusual) - Often triggered by emotional or physical distress (≈50% each) - High (supraphysiologic) circulating catecholamines on admission - ≈80% female, mostly post-menopausal (mean age 63 yr) – very common in women			
+important pathways in chronic risk factors		4 pathways that play a primary role in episodic- and chronic risk factors: - Central Nervous System (SAM, HPA) - Autonomic nervous system (parasympathetic & sympathetic) - Blood clot formation (coagulation & reduced fibrinolysis) - Inflammation & Immune dysregulation			
+Most common type of vulnerable plaque (in arteries)		Even before the atherosclerotic plaque starts to narrow the artery, you already get plaque build- up. In plaque you do not only see LDL/cholesterol type, but also 2 types of immune system products: - Apoptotic macrophages - T-cells This indicates that the immune system plays an essential role in the early stages of the atherosclerotic disease process.			
+why depression is a cardiovascular risk factor		- Central nervous system which affects the output system of the CNS like neurohormones and sympathetic/parasympathetic balance which shifts to lower parasympathetic and higher sympathetic activity.  The biological changes of the CNS than result in changes in the immune system. Immune suppression important in earlier stages.  => Pro-inflammatory cytokines are an important factor in driving plaque instability and blood clot formation and that can resolve in acute coronary syndromes.			
+asexual reproduction		reproduction without sex, a single organism or cell makes a copy of itself			
+gynodiversity		vaginas come in all shapes and sizes			
+gynoplasty		reparative or plastic surgery of female genital organs			
+luteal phase		phase in the menstrual cycle which occurs after ovulation and before your period starts. During this time, the lining of your uterus normally gets thicker to prepare for a possible pregnancy			
+menarche		onset of the menstrual cycle			
+menstrual phase		woman's monthly bleeding in which the endometrium breaks down and is removed; triggered by reduction in progesterone			
+ovulation		release of an egg from the ovaries			
+oxytocin		posterior pituitary peptide hormone, causing muscle contraction, involved in breastfeeding, childbirth, social bonding and orgasm			
+polycystic ovary syndrome (PCOS)		disorder characterized by the disruption of ovulation cycle due to cysts around the edge of the ovaries and excessive secretion of androgens, leading to hyperandrogenism			
+premenstrual syndrome (PMS)		Drop in estrogen and progesterone can induce irritability, anger or sadness, pain sensitivity, acne, and cramps.			
+progesterone		female steroid sex hormone, levels increase after ovulation and during pregnancy			
+prolactin		anterior pituitary peptide hormone involved in lactation and childbirth			
+sexual reproduction		exchange of genetic material (conjugation), which creates genetic diversity and increases the chance of a better adapted organism			
+testosterone		male steroid sex hormone, secreted primarily by the testis			
+GnRH (gonadotropin-releasing hormone)		a hormone secreted by the hypothalamus that regulates the pituitary's secretion of gonad-stimulating hormones => responsible for the release of follicle stimulating hormone (FSH) and luteinizing hormone (LH) from the anterior pituitary			
+FSH promotes...		growth of eggs and sperm  => follicle stimulating hormone: stimulates growth of the follicles so the follicle eventually pops through which the egg is released (ovulation). After the release of the egg the membrane where the egg was in is shrinking into the corpus luteum/yellow substance.			
+LH is involved in ...		ovulation and menstrual cycle			
+different phases of the menstrual cycle		Follicular phase - Ovulation (middle of the cycle) - Luteal phase - Menstruation -> (repeat)			
+The menstrual cycle is driven by hormones...		Starts with GnRH production in the hypothalamus and the FSH and LH hormones in the anterior pituitary gland			
+How does the follicle affect hormone levels during the menstrual cycle		The follicle produces the hormone oestrogen/oestradiol.			
+Progestore and Oestrogens function		Later on the ovarian cycle the corpus luteum produces progesterone and oestrogens which has an impact on the uterus: ▪ Breaking down of the endometrium ▪ Building up the endometrium by oestrogen produced by follicles. ▪ Ovulation: corpus luteum starts to produce oestrogen progesterone combination which further thickens the endometrium to welcome the fertilized egg.  => If there isn’t an fertilized egg, menstruation sets in after the luteal phase.			
+Ovarian cycle		GnRH starts stimulating FSH => Follicles are maturing and growing until the follicle ruptures and the egg is being released = ovulation.  => The corpus luteum produces progesterone which has an effect on the endometrium and then the cycle begins again.   (Sometimes more eggs mature and ripe which causes heterozygotic twins)			
+Hormonal control of the female reproductive cycle		"Ovaries provide feedback to the hypothalamus by the production of oestradiol/oestrogen. Type of feedback and amount of oestradiol/oestrogens depends on the phase. Basis is similar across all phases  ""The ovarian and menstrual cycles of female reproduction are regulated by hormones produced by the hypothalamus, pituitary, and ovaries. The pattern of activation and inhibition of these hormones varies between phases of the reproductive cycle"""			
+follicular phase of ovarian cycle		FSH predominates during days 1-13, the ovarian follicles develop and estrogen secretion by follicles is stimulated  GnRH=> increases LH and FSH => follicles form then  Follicles start to produce oestrogen which has a negative inhibiting effect on the hypothalamus which tells it to reduce the release of GnRH and therefor reducing release of LH and FSH. Oestrogen also causes the endometrium arteries to constrict which results in the breaking down of the endometrium (menstruation)			
+ovulation phase of ovarian cycle		Day 14 1. Peak in LH induces ovulation 2. LH peak + FSH slight rise produces cascade that stimulates ovulation  (Oocyte release from mature follicle)			
+luteal phase of ovarian cycle		LH predominates during days 15-28, LH stimulates secretion of progesterone by the corpus luteum  => egg is popped out and the corpus luteum starts to produce oestrogen and progesterone which has a negative effect on both the hypothalamus and anterior pituitary gland (inhibition). Also an effect on the endometrium telling it to thicken further.			
+Female issues		PMS, PCOS, Menopause			
+PMS (premenstrual syndrome)		Nervous tension, mood swings, headaches, bloating, irritability			
+PCOS (polycystic ovarian syndrome)		An endocrine disorder associated with chronic anovulation, most common in young women (teens to twenties). High LH/FSH ratio in blood; A hormonal disorder causing enlarged ovaries with small cysts on the outer edges.			
+Menopause symptoms		vaginal dryness, hot flashes, irregular or amenorrhea, atrophy of breast tissue			
+Virilization		the development of male physical characteristics (such as muscle bulk, body hair, and deep voice) in a female or precociously in a boy Most of the changes of virilization are produced by androgens (male hormones)			
+Puberty changes		Physiological changes: - Fertility - Breast development (thelarche) - Pubic hair (pubarche) - Ovulation and first menstruation (menarche) - Growth spurt - Enlargement of scrotum and penis - Facial hair			
+different sexes explanation		- X0: only 1 X chromosome - leads to the phenotype female, but turner's syndrome: they have sexual organs and genitalia but often lack the ovaries so sexual reproduction is disturbed.- XXX: leads to phenotype of females, are impassive show little emotions when younger and late development in motor speech and cognitive functioning. - XXY leads to phenotype male with Klinefelter syndrome: small testicles, decreased facial hair, erectile dysfunction and often also are infertile. - XYY: leads to phenotype male, develop normally sexually. Children are more physically active and experience delayed emotional maturity. - XY with phenotype female: when insensitive to androgens - XX with phenotype female: when increased sensitivity to testosterone , have in between external genitalia and a male disposition.			
+different sexes genotype vs phenotype		XX - Female XY - Male X0 - Female (turners syndrome) XXX - Female XXY - Male (klinefelter) XYY - Male  XY insensitive to androgens - Female XX increased testosterone - Female			
+sex development in the brain		Sexual development is caused by: Male: Testosterone converted into oestradiol which masculinizes the neurons of the brain  Female: Protected from masculinizing effects of oestradiol.The protein ‘alphafetoprotein’ binds to oestrogens and stops it entering the brain ➔ So there is a difference in the brain.			
+addiction		compulsive engagement in rewarding stimuli, despite adverse consequences, e.g. drugs, gambling etc.			
+behavioural tolerance		involved in the diminishing effects of a drug by the mechanisms of classical conditioning			
+detox		a process or period of time in which one abstains from or rids the body of toxic or unhealthy substances			
+dysphoria		negative emotions			
+hallucinogens		Drugs including cannabis, LSD, Ketamine. Changes perception, dissociative sometimes, mild euphoria			
+Immuno-suppression		suppression of the immune system			
+pharmacodynamic tolerance		target receptors become fewer in number and/or become less sensitive in order to prevent overstimulation			
+pharmacokinetic tolerance		the drug is more easily processed and metabolized by the body, therefore it is easier deactivated.			
+placebo		an inert substance devoid of pharmacological effect			
+rate-dependent hypothesis		the differences within the baseline decide which direction the effect of the medicine will have			
+sedatives		drugs taken for its calming or sleep-inducing effect			
+sensitisation		the increased effect after repeated exposure to a drugs. Sometimes called reverse tolerance			
+stimulants		Drugs including cocaine, amfetamines, meth, nicotine, caffeine, MDMA, 4-fmp. Hunger and sleep are suppressed, enhance performance/endurance			
+stimulants (effect)		increased alertness, attention, energy as well as blood pressure, heart rate and respiration			
+tolerance		the diminishing effectiveness of a drugs after previous administration			
+adaptive immune system		acquired immune system; specific immune system; a subsystem of the overall immune system that is composed of highly specialized, systemic cells and processes that eliminate pathogens or prevent their growth.			
+allergic reaction		an overreacting immunesystem which starts fighting substances that are usually harmless (such as dust mites, pollen, or a medicine) as though these substances were trying to attack the body			
+allergy		hypersensitivity to a substance, that doesn't have to be a harm to your body.			
+anaphylactic shock		serious allergic reaction that is rapid in onset and may cause death			
+antibody		immunoglobulin; a blood protein resembling a 'Y' produced by B-cells in response to and counteracting a specific antigen			
+antigen		a molecule capable of inducing an immune response (to produce an antibody) in the host organism			
+antigen-antibody complex		antigen reacting with an antibody, this works like a lock and key mechanism			
+antigen-presenting cells (APC)		cell that presents antigens complexed with MHC's (antigen presentation)			
+autoimmunity		system of immune responses of an organism against its own healthy cells and tissues			
+B-cell		white blood cell that can present antigens and produces antibodies			
+cell-mediated immune response		an immune response that does not involve antibodies, but rather involves the activation of phagocytes, antigen-specific cytotoxic T-lymphocytes, and the release of various cytokines in response to an antigen			
+complement system		part of the immune system that complements the ability of antibodies and phagocytic cells to clear microbes from an organism, promotes inflammation, and attacks the pathogen's plasma membrane			
+cytokines		communication molecules of immune cells			
+cytotoxic T cell (Tcyt)		a T lymphocyte that kills cancer cells, cells infected viruses, or cells that are damaged in other ways			
+dendritic cell		a phagocytic antigen-presenting cell in those tissues that are in contact with the external environment			
+fever		having a temperature above the normal range due to an increase in the body's temperature set-point			
+helper T cell (Th)		T-cell activated by an antigen on a MHCII receptor, causing the release of cytokines specific to either cytotoxic T-cells or B-cells			
+histamine		an organic compound released by mast cells, causing an allergic reaction			
+humoral immune response		specific immune response to substances within the bodily fluids, affecting B-cells through Th2 cells			
+hypersensitivity		a set of undesirable reactions produced by the normal immune system, including allergies and autoimmunity			
+immune response		recognition of foreign material as opposed to 'self' and the reaction to eliminate it, either specific or non-specific			
+immune tolerance		a state of unresponsiveness of the immune system to substances or tissue that have the capacity to elicit an immune response			
+immunodeficiency		failure, insufficiency, delay in the response of the immune system			
+immunoglobulin (Ig)		antibodies; 'Y' shaped molecules produced by B-cells and plasma cells			
+inflammation		a mechanism of innate immunity causing heat, pain, redness, swelling, and loss of function			
+infection		invasion of the body by pathogens, and the subsequent reaction of the body			
+innate immune system		nonspecific defense mechanisms made up of physical barriers (e.g. skin, saliva) and internal defenses (e.g. inflammatory response), responds to all pathogens			
+interferons		"""signal substances"" that the cell makes when it gets infected, activating surrounding cells to make antiviral proteins"			
+leukocyte		white blood cell; ability to recognise foreign from self, and eliminate the first			
+lymph node		small, bean-shaped glands throughout the body, and part of the lymph system. Relevant for proper functioning of the immune system, acting as filters for foreign particles and cancer cells.			
+lymphocytes		a subtype of the white blood cell, comprises the Natural Killer cell (NK-cell), T-cel and B-cel			
+macrophage		"activated monocytes; ""big eaters"", consume intruders and send a signal to other cells about what they have eaten as APC's"			
+Major Histocompatibility Complex (MHC)		a set of cell surface proteins essential for the acquired immune system to recognize foreign molecules			
+mast cell		a type of granulocyte which contains many secretory granules rich in histamine. Mediate inflammatory responses such as hypersensitivity and allergic reactions			
+memory cell		a lymphocyte which recognizes antigen from earlier infection and enables rapid defense response. Can be a B or a T cell.			
+monocyte		a phagocytic type of white blood cell which can differentiate into a macrophage			
+natural killer cell (NK cell)		a lymphocyte which recognizes tumor- and virus infected cell and causes these cell to die. Part of innate immune system			
+neutrophil		the most abundant type of granulocytes and white blood cells. Forms pus when dies			
+pathogen		an organism, e.g. virus, bacteria or other microorganism, which causes a disease			
+phagocytosis		meaning 'to devour'; the proces by which certain living cells (phagocytes) absorb or strongly affect other cells or particles			
+plasma cell		B-cells differentiated to produce a single type of antibody (monoclone)			
+secondary immune response		a bodily response to second time exposure of the same antigen			
+T-cell		a type of lymphocyte that matures in the thymus			
+virus		a small infectious agent that replicates inside the living cells of other organisms			
+white blood cell		leukocytes; cells of the immune system involved in protection against infectious disease and foreign invaders			
+absorption		the movement of a drug into the bloodstream			
+ADME (abbreviation)		the process of what the body does to a drug: Absorption, Distribution, Metabolism and Elimination			
+affinity		the degree to which a substance tends to bind with oneanother			
+affinity (of ligand / receptor)		when a protein has the best ligand fit in terms of both shape and charge, it has the highest affinity for this ligand			
+agonist		a substance which initiates a regular physiological response when combined with a receptor			
+antagonist		substance which blocks or dampens agonist-mediated responses rather than provoking a biological response itself upon binding to a receptor			
+blood-brain barrier (BBB)		a semi-permeable membrane separating the blood from the cerebrospinal fluid, thereby constituting a barrier to the passage of cells, particles and large molecules			
+distribution		the movement of a drug to its target			
+diversity (of ligand / receptor)		the amount of receptors/ligands a ligand/receptor can bind (to)			
+drug half-life (T1/2)		the time it takes to reduce the concentration of a drug by half in the body			
+drug-ligand competition		the process in which a drug and a ligand compete to bind to a receptor			
+ED50		the median effective dose that produces an effect in 50% of the population.			
+elimination		the process of eliminating or expelling waste matter in living organisms and cells			
+epidural		an injection into the space around the dura mater of the spinal cord			
+excretion		to transport a substance out of its surroundings			
+intramuscular		route of drug administration, via a muscle			
+intraperitoneal		route of drug administration, within the peritoneal cavity, the area that contains the abdominal organs			
+intrathecal		route of drug administration, within the blood brain barrier. Can be more local and better timed than for example the epidural injection.			
+inverse agonist		produces a response that is in the opposite direction to that of an agonist			
+monoamine oxidase inhibitors (MAOI)		inhibit the activity of the monoamine oxidase enzymes			
+monoamine-oxidase		a family of enzymes that catalyze the oxidation of monoamines			
+norepinephrine transporter (NET)		a monoamine transporter for noradrenaline			
+off-label prescribing		the medication is being used in a manner not specified in the FDA's approved packaging label			
+parenteral		a way to insert drugs or nutritients in other ways than through the gastrointestinal tract e.g. injections or infusion			
+partial agonist		an agonist that tilts more to a antagonist and is comparable with a dimmer controle. It partly activates the receptor			
+pharmaceutical drug / medicine		a drug used to diagnose, cure, treat or prevent disease			
+pharmacodynamics		the branch of pharmacology concerned with the effects of drugs and the mechanism of their actions. What the drug does to the body.			
+pharmacokinetics		the branch of pharmacology concerned with the movement of drugs within your body. What the body does to the drugs			
+phase I metabolism		a variety of enzyms act to introduce reactive and polar groups into their substrates. Important substances are oxidation, reduction, and hydrolysis.			
+placental barrier		this is a membrame that's made up of placental tissue, which protects the child from different kinds of substances or pathogens from the mother			
+psychopharmaca		chemical substance that can pass through the blood-brain-barrier			
+psychopharmacology		scientific study of the effects of a drug on the mood, sensation, thinking and behavior			
+randomized controlled trial (RCT)		experiment with random conditions and a control group which investigates whether a treatment is working			
+reuptake transporter		a protein which reabsorpts a neurotransmitter into a pre-synaptic neuron after it has performed its function of transmitting a neural impulse			
+saturation (of ligand/ receptor)		the state in which all receptors are effectively occupied all the time			
+selective serotonin reuptake inhibitors		antidepressant, works at 5-HT transporters, blocking the reuptake of serotonin; example fluoxetine (prozac)			
+serotonin		a monoamine neurotransmitter derived from tryptophan, involved in mood			
+serotonin transporter (SERT)		a protein that takes up serotonin into the presynaptic neuron when there is serotonin in the synaptic cleft. A serotonin recycler			
+serotonin-norepinephrine reuptake inhibitor (SNRI)		an antidepressant drug which inhibits the reuptake of serotonin and noradrenaline			
+specificity (of ligand / receptor)		only if ligand and receptor match, they can bind (there are many different ligands and receptors)			
+subcutaneous		route of drug administration, just below skin			
+transdermal (TD)		route of drug administration, through skin			
+transmucosal		route of drug administration, entering through, or across, a mucous membrane			
+tricyclic antidepressants (TCA)		class of antidepressants, named after their chemical structure, which contains three rings of atoms. Example: amitriptyline			
+tryptophan		essential aminoacid, precursor for serotonin and melatonin			
