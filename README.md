@@ -17,10 +17,6 @@ This tool is designed to seamlessly convert exported Anki notes into Markdown fi
    git clone https://github.com/yourusername/anki-to-obsidian.git
    cd anki-to-obsidian
    ```
-2. Install the required dependencies (if any). For example:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 1. **Export Notes from Anki**:
@@ -31,13 +27,17 @@ This tool is designed to seamlessly convert exported Anki notes into Markdown fi
 2. **Prepare Input Folder**:
    - Place the exported Anki file(s) into the `exported_notes/` folder.
 
-3. **Run the Script**:
+3. Specify the location of your input file in [anki_to_obsidian.py]
+
+4. Specify the location you want the files to be created in in [anki_to_obsidian.py]
+
+5. **Run the Script**:
    - Execute the script by specifying the input folder and the desired output folder:
      ```bash
-     python anki_to_obsidian.py --input exported_notes --output obsidian_notes
+     python anki_to_obsidian.py
      ```
 
-4. **Load into Obsidian**:
+6. **Load into Obsidian**:
    - Open your Obsidian vault.
    - Import the generated Markdown files into the appropriate folder in your vault.
 
@@ -48,8 +48,7 @@ This tool is designed to seamlessly convert exported Anki notes into Markdown fi
 ## Example
 **Input (Anki Exported Notes):**
 ```
-Front: Allele
-Back: Each of two or more alternative forms of a gene that arise by mutation and are found at the same place on a chromosome.
+Allele (alias)      Each of two or more alternative forms of a gene that arise by mutation and are found at the same place on a chromosome.
 ```
 
 **Output (Markdown File):**
@@ -58,6 +57,8 @@ Back: Each of two or more alternative forms of a gene that arise by mutation and
 Type:: 
   - "[[Word]]"
   - "[[Anki_to_Obsidian]]"
+aliases:
+  - alias
 ---
 # Allele
 = Each of two or more alternative forms of a gene that arise by mutation and are found at the same place on a chromosome.
