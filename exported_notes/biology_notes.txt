@@ -152,8 +152,8 @@ golgi-apparatus		a cell organelle that helps process and package proteins and li
 G-protein coupled receptor		largest and most diverse type of receptor. These cells surface receptors act like an inbox for messages in the form of light energy, peptides, lipids, sugars and proteins			
 hormone		chemical substane formed in specialized glands or cells that affect targets often some distance away			
 hydrophobic		hates water and loves oil			
-hyper-(thyroidism)		overactive (thyroid) gland, producing an excessive amount of (thyroid) hormones			
-hypo-(thyroidism)		under-active (thyroid) gland, producing a smaller amount of (thyroid) hormones			
+hyper-thyroidism		overactive (thyroid) gland, producing an excessive amount of (thyroid) hormones			
+hypo-thyroidism		under-active (thyroid) gland, producing a smaller amount of (thyroid) hormones			
 intracellular receptor		a receptor inside the cell, thus not located in the cell membrane			
 ionotropic receptor		a receptor which forms an ion channel pore			
 ligand		a chemical/drug/neurotransmitter that can bind to a receptor			
@@ -210,8 +210,6 @@ Type A behaviour pattern		outgoing, ambitious, rigidly organized, highly status-
 vasodilation		the widening of blood vessels			
 Aorta		The large arterial trunk that carries blood from the heart to be distributed by branch arteries through the body.			
 coronary arteries and veins		These are the vessels located on and in the actual myocardium or heart muscle. They supply and drain the myocardium of blood, respectively.			
-heart from the inside					
-heart from the outside					
 Main types of cardiovascular diseases		1. Coronary heart disease 2. Heart failure 3. Valve disease 4. Arrhythmia / sudden cardiac death 5. Stroke/CVA/TIA 6. others like endocarditis			
 Iceberg Phenomenon		for any given disesase, there is a much larger problem with carriers and asymptomatic individuals than we realize  => only when you’re over a certain threshold you will get cardiac events.			
 mental stress ischemia		Decreased cardiac supply - (narrowing coronary arteries) – heart doesn’t get sufficient blood supply which can lead to MI Increased cardiac demand (hemodymanic reactivity) - (blood pressure, heart rate, contractility)			
